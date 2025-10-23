@@ -27,7 +27,7 @@ I am also a **Java Certified Developer**.
 
 ### 📫 Connect With Me
 - **Email:** [abdamoh1@gmail.com](mailto:abdamoh1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdallahmahmoud](https://linkedin.com/in/abdallahmahmoud) *(optional — replace with your actual link)*  
+- **LinkedIn:** [linkedin.com/in/abdallahmahmoud](https://linkedin.com/in/abdallahmahmoud)   
 - **GitHub:** [github.com/abdamah](https://github.com/abdamah)
 
 ---
