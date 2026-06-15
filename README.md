@@ -11,7 +11,7 @@ I am also a **Java Certified Developer**.
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Java (Spring Boot), Go (Golang), Python (ML & LLMs)
+- **Backend:** Go (Golang), Java (Spring Boot), Python (ML & LLMs)
 - **Frontend:** React.js, Next.js (TypeScript)
 - **Databases:** MySQL, Oracle DB, PostgreSQL, MongoDB
 - **Dev Tools & Platforms:** Docker, PM2, Git, RESTful APIs, Microservices, Cloud Deployments
