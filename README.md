@@ -14,7 +14,8 @@
 I'm a **Full Stack Software Engineer** who designs and delivers scalable, reliable applications from the database to the user interface.
 I focus on clean architecture, maintainable code and solving complex problems, and I keep my skills current as the technology evolves.
 
-- 🏗️ Building high-performance backend services and modern web applications
+- 🏗️ Building high-performance backend services with **Go** and **Rust**
+- 💻 Crafting modern web applications with **TypeScript**, **React** and **Next.js**
 - ☕ **Oracle Certified Java Developer**
 - 🌱 Currently exploring Machine Learning and Large Language Models
 
@@ -57,9 +58,9 @@ I focus on clean architecture, maintainable code and solving complex problems, a
 
 ### 🚀 Currently Exploring
 
+- 🏎️ High-performance systems and backend architecture with Go and Rust
+- ⚡ Advanced TypeScript, React and Next.js patterns
 - 🤖 Machine Learning and Large Language Models with Python
-- ⚡ Advanced TypeScript and Next.js patterns
-- 🏎️ High-performance backend architecture with Go and Spring Boot
 
 ---
 
