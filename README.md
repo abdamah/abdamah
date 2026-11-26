@@ -1,37 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abdallah Mahmoud</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h1 align="center">Abdallah Mahmoud</h1>
+<p align="center"><strong>Full Stack Software Engineer</strong> · Java Certified Developer</p>
+
+<p align="center">
+  <a href="mailto:abdamoh1@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/abdallahmahmud/">LinkedIn</a> ·
+  <a href="https://github.com/abdamah">GitHub</a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate **Full Stack Developer** with hands-on experience in building scalable and reliable applications.  
-I enjoy solving complex problems, writing clean code, and continuously learning new technologies to stay ahead in the ever-evolving tech world.  
-I am also a **Java Certified Developer**.
+## About
 
----
+I build backend services and web applications that are scalable, reliable and easy to maintain. I write clean code, take on hard problems, and keep learning new tools and techniques.
 
-### 🧠 Tech Stack
-- **Backend:** Go (Golang), Java (Spring Boot), Python (ML & LLMs)
-- **Frontend:** React.js, Next.js (TypeScript)
-- **Databases:** MySQL, Oracle DB, PostgreSQL, MongoDB
-- **Dev Tools & Platforms:** Docker, PM2, Git, RESTful APIs, Microservices, Cloud Deployments
+## Tech Stack
 
----
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Go, Java (Spring Boot), Python |
+| **Frontend** | React, Next.js, TypeScript |
+| **Databases** | PostgreSQL, Oracle Database, MySQL, MongoDB |
+| **Architecture** | RESTful APIs, Microservices |
+| **DevOps & Tools** | Docker, PM2, Git, Cloud Deployments |
 
-### 🚀 What I’m Currently Exploring
-- Machine Learning & Large Language Models with Python  
-- Advanced TypeScript and Next.js patterns  
+## Current Focus
+
 - High-performance backend architecture with Go and Spring Boot
+- Advanced TypeScript and Next.js patterns
+- Machine learning and large language models with Python
 
----
+## Contact
 
-### 📫 Connect With Me
-- **Email:** [abdamoh1@gmail.com](mailto:abdamoh1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdallahmahmoud](https://www.linkedin.com/in/abdallahmahmud/)   
-- **GitHub:** [github.com/abdamah](https://github.com/abdamah)
-
----
-
-⭐️ *“Code with clarity, design with purpose, and build with passion.”*
+Open to collaboration and new opportunities. Reach me by [email](mailto:abdamoh1@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdallahmahmud/).
 
 
